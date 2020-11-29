@@ -1,6 +1,6 @@
 {
-  "name": "MLO-USERBOT ❤️",
-  "description": "A power full,Rockstar and Intelligent user bot in telethon made by @mbbs_lover ....for support join our official group @spamreporttt ",
+  "name": "MLOẞø†",
+  "description": "The best userbot made by @mbbs_lover. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @spamreporttt ",
   "logo": "https://telegra.ph/file/6a0749dec068cf9e47b82.jpg ",
     "keywords": [
     "telegram",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/prashu1708/mlo/",
   "website": "https://github.com/prashu1708/mlo/",
-  "success_url": "https://t.me/spamreporttt",
+  "success_url": "https://t.me/Spamreporttt",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @mbbs_lover.",
+      "description": "Fill your Full name or Username like @Kraken_The_BadASS.",
       "value": "",
       "required": false
     },
