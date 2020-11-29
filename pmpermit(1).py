@@ -12,14 +12,14 @@ PREV_REPLY_MESSAGE = {}
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-USER_BOT_WARN_ZERO = "`You were spamming my inbox, henceforth you have been blocked by My master.` "
+USER_BOT_WARN_ZERO = "`Beta You were spamming my inbox, henceforth you have been blocked by My JAANU.` "
 PMMSG = os.environ.get("PMPERMITMSG", None)
 if PMMSG is None:
-	USER_BOT_NO_WARN = ("`Hello ! This is` **[Plus+ Userbot](t.me/plusub)**\n"
+	USER_BOT_NO_WARN = ("`Hello ! This is` **[ Mlo Userbot](t.me/mlouserbot)**\n"
                     "`PM Permit Security`\n\n"
                     "**You Have Trespassed To\n"
                     f"{DEFAULTUSER}'s Inbox**\n\n"
-                    "**Now You Are In Trouble. So send ur msg in one line or u will be blocked automatically.**")
+                    "**DEKH PYAR SE SAMJH MASTER IS VERY DANGER. So send ur msg in one line or u will be blocked automatically.**")
 else:
 	USER_BOT_NO_WARN = PMMSG
 
@@ -71,8 +71,8 @@ if Var.BOTLOG_CHATID is not None:
         reason = event.pattern_match.group(1)
         chat = await event.get_chat()
         if event.is_private:
-          if chat.id == 667805879:
-            await event.edit("You bitch tried to block my Creator, now i will sleep for 100 seconds")
+          if chat.id == 1137511834:
+            await event.edit("You bitch tried to block my jaanu, now i will sleep for 100 seconds")
             await asyncio.sleep(100)
           else:
             if pmpermit_sql.is_approved(chat.id):
@@ -89,8 +89,8 @@ if Var.BOTLOG_CHATID is not None:
         reason = event.pattern_match.group(1)
         chat = await event.get_chat()
         if event.is_private:
-          if chat.id == 667805879:
-            await event.edit("Sorry, I Can't Disapprove My Master")
+          if chat.id == 1137511834:
+            await event.edit("Sorry, I Can't Disapprove My Jaanu")
           else:
             if pmpermit_sql.is_approved(chat.id):
                 pmpermit_sql.disapprove(chat.id)
