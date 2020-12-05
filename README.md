@@ -24,8 +24,7 @@
 
 # String
 
-[![Run on Repl.it](https://repl.it/badge/github/mbbslove/mlo)](https://repl.it/@mbbslove
-/Mlo/userbot#main.py
+[![Run on Repl.it](https://repl.it/badge/github/mbbslove/mlo)](https://repl.it/mbbslove/Mlo/userbot#main.py
 
 
 
