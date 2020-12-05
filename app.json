@@ -147,3 +147,6 @@
   }
  }]
 }
+heroku buildpacks:set heroku/ruby
+Buildpack set. Next release on random-app-1234 will use heroku/ruby.
+Run `git push heroku master` to create a new release using this 
