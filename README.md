@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/spamreporttt"><img src="https://telegra.ph/file/6a0749dec068cf9e47b82.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/spamreporterr"><img src="https://telegra.ph/file/6a0749dec068cf9e47b82.jpg" width="5000"></a></p> 
 <h1 align="center"><b>MLO- USERBOT ♥️ </b></h1>
 <h4 align="center">A Powerful, Rockstar And intelligent Userbot In Telethon.</h4>
 
@@ -8,9 +8,9 @@
 
 # Support
 
-<a href="https://t.me/mlouserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/mlousersupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/spamreporttt"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/spamreporterr"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 
